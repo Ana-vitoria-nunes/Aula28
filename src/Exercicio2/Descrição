@@ -1,0 +1,12 @@
+Passo 1: Primeiro criei minha interface tributar e tentro dela coloquei um metodo chamado tributosDasComntas.
+Passo 2: Criei a classe ContaCorrente
+Passo 4: Dentro da contaCorrente coloque 1 um atributo do tipo double e criei o construtor e ja atribui um valor para meu atributo.
+Passo 5: Depois eu implementei o metodo da minha interface tributar dando um valor para meu retur.
+Passo 6: Criei a classe Poupanca.
+Passo 7: Dentro da poupanca coloque 1 um atributo do tipo double e criei o construtor e ja atribui um valor para meu atributo.
+Passo 8: Depois eu implementei o metodo da minha interface tributar dando um valor para meu retur.
+Passo 9: Criei a classe SeguroDeVida.
+Passo 10: Dentro da classe SeguroDeVida coloque 1 um atributo do tipo double e criei o construtor e ja atribui um valor para meu atributo.
+Passo 11: Depois eu implementei o metodo da minha interface tributar dando um valor para meu retur.
+Passo 12: Crie a minha classe main.
+Passo 13: Dentro da maim eu instanciei minha 3 classes(ContaCorrente,Poupanca e SeguroDeVida) e coloque o system que pucha os metos de cada clase e exibe o return deles.

@@ -1,0 +1,12 @@
+Passo 1: Criei a  interfase lampada e adicioneio dois metodos(ligar e desligar).
+Passo 2: Criei a classe FabricaLampada e não implementei nada nela ate o momento.
+Passo 3: Crie a classe Incandescente que entende a minha classe FabricaLampada e implementa minha intefase Lampada e puxei os get ligar e desligar da interfase.
+Passo 3: Crie a classe Fluorescente que entende a minha classe FabricaLampada e implementa minha intefase Lampada e puxei os get ligar e desligar da interfase.
+Passo 4:Na minha classe Fluorescente criei dois atributos privador(tipoI e tipoF) e crie o contrutor.
+passo 5: Puxei o get liga e desligar da minhas clases filhas.
+Passo 6: Crie um get contruir na minha classe FabricaLampada.
+Passo 7: Dento do meu get construir passei um scanner para receber a resposta do meu usuario e logo em seguida fiz o if,else if e else para que se a resposta
+entrasse na condição exibice a mensagem.
+Passo 8: Criei outro get para ver se o usuario deseja ligar ou desligar a lampada e dentro desse metodo get eu passei um escaner para receber a resposta do
+usuario e tambem coloque o if,else if e else para que se a resposta atendesse a condição ele iria mostra os gets ligar e desligar.
+Passo 9: Instaciei minha classe FabricaLampada na minha clase Main e depois instanciei os metodos contruir e ligarOuDeslidar.
